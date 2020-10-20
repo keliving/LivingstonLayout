@@ -2,3 +2,10 @@
   margin: 0 auto;
   width: 900px;
 }
+
+#headline{
+  font-family: Georgia, "Times New Roman," serif;
+  font-size:30px;
+  font-weight: bold;
+  margin: 10px;
+}
