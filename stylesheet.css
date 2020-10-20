@@ -10,6 +10,11 @@ h1{
   text-align: center;
 }
 
+p{
+  font-family: Georgia, serif;
+  font-size: 13px;
+}
+
 #byline{
   font-family: Helvetica, sans-serif;
   font-size: 14px;
